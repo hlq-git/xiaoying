@@ -1,0 +1,30 @@
+{
+  "request_id": "case-risk-001",
+  "material_id": "M03",
+  "review_status": "blocked",
+  "risks": [
+    {
+      "rule_id": "R001",
+      "reason": "明确未授权",
+      "evidence": "rights=unauthorized"
+    }
+  ],
+  "missing_fields": [],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": null,
+  "effective_slot": null,
+  "confirmation_status": "not_required",
+  "pending_items": [
+    "明确未授权"
+  ],
+  "draft_status": "not_saved",
+  "draft_validity": "not_applicable",
+  "draft_id": null,
+  "task_status": "blocked",
+  "reason_code": "rule_blocked",
+  "published": false,
+  "summary": "素材违反阻断规则，未保存排期。 草稿不代表已发布。",
+  "mode": "mock",
+  "tool_attempts": 2,
+  "trace_id": "risk"
+}

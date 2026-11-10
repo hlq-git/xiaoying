@@ -1,0 +1,22 @@
+{
+  "request_id": "case-conflict-002",
+  "material_id": "M01",
+  "review_status": "approved",
+  "risks": [],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": "2026-12-01T20:00:00+08:00",
+  "effective_slot": null,
+  "confirmation_status": "pending",
+  "pending_items": [
+    "请确认是否允许将原要求 2026-12-01T18:00:00+08:00 改为 2026-12-01T20:00:00+08:00"
+  ],
+  "draft_status": "saved",
+  "draft_validity": "current",
+  "draft_id": "D-f85f61bd8e89",
+  "task_status": "needs_input",
+  "published": false,
+  "summary": "已保存待确认提案，原要求未改变，尚未发布。 草稿不代表已发布。",
+  "mode": "mock",
+  "tool_attempts": 4,
+  "trace_id": "second_conflict"
+}

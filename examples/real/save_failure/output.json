@@ -1,0 +1,22 @@
+{
+  "request_id": "case-save-failure-001",
+  "material_id": "M01",
+  "review_status": "approved",
+  "risks": [],
+  "missing_fields": [],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": "2026-12-01T18:00:00+08:00",
+  "effective_slot": null,
+  "confirmation_status": "not_required",
+  "pending_items": [],
+  "draft_status": "failed",
+  "draft_validity": "not_applicable",
+  "draft_id": null,
+  "task_status": "failed",
+  "reason_code": "injected_save_failure",
+  "published": false,
+  "summary": "素材 M01（产品字幕功能演示）审核规则通过，无风险；原要求时段 2026-12-01T18:00:00+08:00 查询为可用，但保存草稿时工具返回失败（injected_save_failure），未生成草稿，也未发布，需重新发起保存。 草稿不代表已发布。",
+  "mode": "real",
+  "tool_attempts": 4,
+  "trace_id": "save_failure"
+}

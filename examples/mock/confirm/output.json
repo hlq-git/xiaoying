@@ -1,0 +1,28 @@
+{
+  "request_id": "case-confirm-001",
+  "material_id": "M04",
+  "review_status": "needs_confirmation",
+  "risks": [
+    {
+      "rule_id": "R002",
+      "reason": "含未经核实宣传表述",
+      "evidence": "unverified_claim=true"
+    }
+  ],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": "2026-12-01T18:00:00+08:00",
+  "effective_slot": null,
+  "confirmation_status": "pending",
+  "pending_items": [
+    "请人工核实宣传表述"
+  ],
+  "draft_status": "saved",
+  "draft_validity": "current",
+  "draft_id": "D-f0c711dbbe3a",
+  "task_status": "needs_input",
+  "published": false,
+  "summary": "已保存待确认提案，原要求未改变，尚未发布。 草稿不代表已发布。",
+  "mode": "mock",
+  "tool_attempts": 4,
+  "trace_id": "confirm"
+}

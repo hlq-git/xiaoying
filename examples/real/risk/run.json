@@ -1,0 +1,20 @@
+{
+  "mode": "real",
+  "exit_code": 0,
+  "ran_at": "2026-11-10T21:42:31.296936+08:00",
+  "framework_version": "1.66.0",
+  "input_sha256": "e14ac6da45524323ae166c5272d70249178fa23afe3bc0925a43168a868e3391",
+  "model_name": "deepseek-flash",
+  "model_attempts": 3,
+  "tool_attempts": 2,
+  "tool_execution": "sequential",
+  "reason_code": "rule_blocked",
+  "code_commit": null,
+  "data_sha256": {
+    "materials.json": "a57c2d88b140de038b112e6d145e9f586699aad42fbee8dd0a782d86993e7b2c",
+    "rules.json": "715fd880c0477286f1b67b8fe9cf7454b7de4bbd28a2541c43ffddbddcdf731e",
+    "schedules.json": "bec658294800f868b757928cc221952e8b386b724870b6fa90a9075bc1b5e62b",
+    "schedules_conflict.json": "ec5b5540e7013fa59cdf6d06fb03ff42b775de3ca184373fe686ee18ea9f1eac",
+    "schedules_second_conflict.json": "da9f3f7c6a9b3ef0a8ddb4190929059b005d78bbbdd1d34c609264e1881b04c9"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "request_id": "case-conflict-002",
+  "material_id": "M01",
+  "review_status": "approved",
+  "risks": [],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": "2026-12-01T20:00:00+08:00",
+  "effective_slot": null,
+  "confirmation_status": "pending",
+  "pending_items": [
+    "请确认是否允许将原要求 2026-12-01T18:00:00+08:00 改为 2026-12-01T20:00:00+08:00"
+  ],
+  "draft_status": "saved",
+  "draft_validity": "current",
+  "draft_id": "D-73a8e2943c1c",
+  "task_status": "needs_input",
+  "published": false,
+  "summary": "素材 M01（短视频，30秒，权利已清，规则审核通过）原要求时段 2026-12-01T18:00:00+08:00 已被占用，故按工具返回的可用候选时段 2026-12-01T20:00:00+08:00 保存了待确认提案（草稿 D-73a8e2943c1c），尚未发布，需用户确认是否接受该改期。 草稿不代表已发布。",
+  "mode": "real",
+  "tool_attempts": 4,
+  "trace_id": "second_conflict"
+}

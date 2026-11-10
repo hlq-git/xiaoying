@@ -1,0 +1,8 @@
+{
+  "version":"rules-2026-11-10-v1",
+  "required_fields":["id","version","title","channel","rights","duration_seconds","facts"],
+  "rules":[
+    {"id":"R001","type":"block","description":"明确未授权的素材禁止保存排期。"},
+    {"id":"R002","type":"confirm","description":"含未经核实宣传表述的素材需要人工确认。"}
+  ]
+}

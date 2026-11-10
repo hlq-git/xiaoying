@@ -1,0 +1,22 @@
+{
+  "request_id": "case-save-failure-001",
+  "material_id": "M01",
+  "review_status": "approved",
+  "risks": [],
+  "missing_fields": [],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": null,
+  "effective_slot": null,
+  "confirmation_status": "not_required",
+  "pending_items": [],
+  "draft_status": "failed",
+  "draft_validity": "not_applicable",
+  "draft_id": null,
+  "task_status": "failed",
+  "reason_code": "injected_save_failure",
+  "published": false,
+  "summary": "保存草稿失败，未声称保存或发布成功。 草稿不代表已发布。",
+  "mode": "mock",
+  "tool_attempts": 4,
+  "trace_id": "save_failure"
+}

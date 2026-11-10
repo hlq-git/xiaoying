@@ -1,0 +1,30 @@
+{
+  "request_id": "case-risk-001",
+  "material_id": "M03",
+  "review_status": "blocked",
+  "risks": [
+    {
+      "rule_id": "R001",
+      "reason": "明确未授权",
+      "evidence": "rights=unauthorized"
+    }
+  ],
+  "missing_fields": [],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": null,
+  "effective_slot": null,
+  "confirmation_status": "not_required",
+  "pending_items": [
+    "明确未授权"
+  ],
+  "draft_status": "not_saved",
+  "draft_validity": "not_applicable",
+  "draft_id": null,
+  "task_status": "blocked",
+  "reason_code": "rule_blocked",
+  "published": false,
+  "summary": "素材 M03（第三方视频片段）版权状态为未授权，规则检查结果为 blocked（风险 R001）。因存在明确阻断，已终止流程，未查询时段、未保存草稿，也未发布任何内容。 草稿不代表已发布。",
+  "mode": "real",
+  "tool_attempts": 2,
+  "trace_id": "risk"
+}

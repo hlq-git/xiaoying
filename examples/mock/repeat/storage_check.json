@@ -1,0 +1,23 @@
+{
+  "draft_count": 1,
+  "drafts": [
+    {
+      "request_id": "case-normal-001",
+      "request_fingerprint": "bacef47848ec33c78d85da36f555330e6590bc28fafc7c5de1897e1be831cc40",
+      "draft_id": "D-0b698a019d91",
+      "material_id": "M01",
+      "material_version": 1,
+      "rule_version": "rules-2026-11-10-v1",
+      "channel": "short_video",
+      "requested_slot": "2026-12-01T18:00:00+08:00",
+      "requirement_type": "hard",
+      "suggested_slot": "2026-12-01T18:00:00+08:00",
+      "effective_slot": "2026-12-01T18:00:00+08:00",
+      "review_status": "approved",
+      "confirmation_status": "not_required",
+      "kind": "ready",
+      "pending_items": "[]",
+      "created_at": "2026-11-10T21:47:55.063237+08:00"
+    }
+  ]
+}

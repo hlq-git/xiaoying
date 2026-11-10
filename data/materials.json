@@ -1,0 +1,8 @@
+{
+  "materials": [
+    {"id":"M01","version":1,"title":"产品字幕功能演示","channel":"short_video","rights":"cleared","duration_seconds":30,"facts":["支持字幕"],"unverified_claim":false},
+    {"id":"M02","version":1,"title":"版权待补充演示","channel":"short_video","rights":null,"duration_seconds":30,"facts":["支持字幕"],"unverified_claim":false},
+    {"id":"M03","version":1,"title":"第三方视频片段","channel":"short_video","rights":"unauthorized","duration_seconds":30,"facts":["来自第三方"],"unverified_claim":false},
+    {"id":"M04","version":1,"title":"功能宣传初稿","channel":"short_video","rights":"cleared","duration_seconds":30,"facts":["支持字幕"],"unverified_claim":true}
+  ]
+}

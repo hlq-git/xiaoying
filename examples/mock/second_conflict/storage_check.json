@@ -1,0 +1,23 @@
+{
+  "draft_count": 1,
+  "drafts": [
+    {
+      "request_id": "case-conflict-002",
+      "request_fingerprint": "e54fcebf4d863c1789cee4a8fa5428d9927f5c4cfe843086f7bcbc80310cad60",
+      "draft_id": "D-f85f61bd8e89",
+      "material_id": "M01",
+      "material_version": 1,
+      "rule_version": "rules-2026-11-10-v1",
+      "channel": "short_video",
+      "requested_slot": "2026-12-01T18:00:00+08:00",
+      "requirement_type": "hard",
+      "suggested_slot": "2026-12-01T20:00:00+08:00",
+      "effective_slot": null,
+      "review_status": "approved",
+      "confirmation_status": "pending",
+      "kind": "pending_confirmation",
+      "pending_items": "[\"请确认是否允许将原要求 2026-12-01T18:00:00+08:00 改为 2026-12-01T20:00:00+08:00\"]",
+      "created_at": "2026-11-10T21:47:55.233405+08:00"
+    }
+  ]
+}

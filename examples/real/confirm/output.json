@@ -1,0 +1,28 @@
+{
+  "request_id": "case-confirm-001",
+  "material_id": "M04",
+  "review_status": "needs_confirmation",
+  "risks": [
+    {
+      "rule_id": "R002",
+      "reason": "含未经核实宣传表述",
+      "evidence": "unverified_claim=true"
+    }
+  ],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": "2026-12-01T18:00:00+08:00",
+  "effective_slot": null,
+  "confirmation_status": "pending",
+  "pending_items": [
+    "请人工核实宣传表述"
+  ],
+  "draft_status": "saved",
+  "draft_validity": "current",
+  "draft_id": "D-c36a170358b6",
+  "task_status": "needs_input",
+  "published": false,
+  "summary": "素材 M04 含未经核实宣传表述（R002），审核状态为需人工确认。已查询到 2026-12-01 18:00+08:00 原时段可用，并已按原时段保存为待确认提案（草稿 D-c36a170358b6，待人工核实宣传表述），尚未发布，需用户与人工确认。 草稿不代表已发布。",
+  "mode": "real",
+  "tool_attempts": 4,
+  "trace_id": "confirm"
+}

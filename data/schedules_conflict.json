@@ -1,0 +1,7 @@
+{
+  "slots": [
+    {"slot_id":"S1800","channel":"short_video","start_at":"2026-12-01T18:00:00+08:00","end_at":"2026-12-01T18:30:00+08:00","occupied_by":"EXISTING01"},
+    {"slot_id":"S1900","channel":"short_video","start_at":"2026-12-01T19:00:00+08:00","end_at":"2026-12-01T19:30:00+08:00","occupied_by":null},
+    {"slot_id":"S2000","channel":"short_video","start_at":"2026-12-01T20:00:00+08:00","end_at":"2026-12-01T20:30:00+08:00","occupied_by":null}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "request_id": "case-normal-001",
+  "material_id": "M01",
+  "review_status": "approved",
+  "risks": [],
+  "requested_slot": "2026-12-01T18:00:00+08:00",
+  "suggested_slot": "2026-12-01T18:00:00+08:00",
+  "effective_slot": "2026-12-01T18:00:00+08:00",
+  "confirmation_status": "not_required",
+  "pending_items": [],
+  "draft_status": "reused",
+  "draft_validity": "current",
+  "draft_id": "D-9e35ddb087cf",
+  "task_status": "completed",
+  "published": false,
+  "summary": "检测到相同业务请求，已复用原草稿 D-9e35ddb087cf，没有新增草稿。原草稿的审核、时段和确认状态以结构化字段为准。 草稿不代表已发布。",
+  "mode": "real",
+  "tool_attempts": 5,
+  "trace_id": "repeat"
+}
